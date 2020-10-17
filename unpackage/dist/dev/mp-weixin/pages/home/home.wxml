@@ -1,0 +1,1 @@
+<view><my-swiper vue-id="1da55560-1" banners="{{banners}}" bind:__l="__l"></my-swiper><home-data vue-id="1da55560-2" dataList="{{dataList}}" bind:__l="__l"></home-data><view class="goods"><view class="title">推荐商品</view><goods vue-id="1da55560-3" goods="{{goods}}" bind:__l="__l"></goods></view></view>

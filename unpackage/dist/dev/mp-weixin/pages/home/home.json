@@ -1,0 +1,8 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "my-swiper": "/components/mySwiper",
+    "home-data": "/pages/home/childCpns/homeData",
+    "goods": "/components/goods"
+  }
+}

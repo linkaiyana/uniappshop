@@ -1,0 +1,1 @@
+<view class="data data-v-4ea3efb1"><block wx:for="{{dataList}}" wx:for-item="item" wx:for-index="__i0__"><view data-event-opts="{{[['tap',[['navTo',['$0'],[[['dataList','',__i0__,'path']]]]]]]}}" class="item data-v-4ea3efb1" bindtap="__e"><view class="{{['data-v-4ea3efb1',item.iconClass]}}"></view><text class="txt data-v-4ea3efb1">{{item.text}}</text></view></block></view>

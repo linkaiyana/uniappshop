@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/news/news",
+    "pages/cart/cart",
+    "pages/profile/profile",
+    "pages/shop/shop",
+    "pages/contact/contact",
+    "pages/pics/pics",
+    "pages/video/video",
+    "pages/newsdetail/newsdetail",
+    "pages/detail/detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "黑马商城",
+    "navigationBarBackgroundColor": "#f82c30",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#f82c30",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "主页",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/home-active.png"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "text": "资讯",
+        "iconPath": "static/icon/news.png",
+        "selectedIconPath": "static/icon/news-active.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "static/icon/cart.png",
+        "selectedIconPath": "static/icon/cart-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "会员",
+        "iconPath": "static/icon/member.png",
+        "selectedIconPath": "static/icon/member-active.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap31.json"
+}
